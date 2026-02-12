@@ -1,0 +1,54 @@
+html {
+    background-color:#fccaf2;
+    font-size: 14px;
+    width: 100vw;
+}
+#page {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border: 4px solid #555;
+    border-radius: 0;
+}
+.entete {
+       text-align: center;
+       padding: 20px;   
+}
+h1 {
+    color: #ff69b4;
+    font-size: 2em;
+    text-align: center;}
+h2 { 
+    font-size:1.5em; 
+    text-align: center;
+}
+.photos {
+    text-align: center;
+    margin: 20px 0;
+}
+#aboutme {
+    padding: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;         
+    margin-bottom: 20px;
+    background: white;
+}
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 2px solid #333;
+}
+li {
+    color: blue;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: #ccc;   
+    margin-top: 40px;
+    text-align:center;
+    border-radius: 0px;
+}
